@@ -1,3 +1,8 @@
+# Authored by: Adam H. Meadvin 
+# Email: h3rbert@proton.me
+# GitHub: @GhostMach 
+# Creation Date: 08 June 2023
+
 import re
 import os
 import pandas
