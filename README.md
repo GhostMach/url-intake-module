@@ -11,6 +11,7 @@ Use the following terminal command to install above packages:
 ```python
 python -m pip install package_name
 ```
+**Note:** if you plan to use Excel files, one must install an Excel (python) package like, `openpyxl`.
 
 ## Usage
 Import the "url-intake-module" into an existing python (web-scraping) script and then create a constructor function from the module by assigning it to a variable as noted below:
